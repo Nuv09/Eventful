@@ -11,7 +11,7 @@ A smart and streamlined event planning application designed to simplify and enha
 ## 📱 Project Overview
 
 **Eventful** is an intuitive mobile application that helps users plan events such as parties, weddings, and corporate gatherings all in one place.  
-The app offers tools for scheduling, budgeting, guest management, and vendor coordination — all through a modern and easy-to-navigate interface.  
+The app offers tools for scheduling, guest management, and vendor coordination — all through a modern and easy-to-navigate interface.  
 It was designed as part of a UX design academic project to solve real user pain points in planning.
 
 ---
@@ -20,9 +20,6 @@ It was designed as part of a UX design academic project to solve real user pain 
 
 ✅ **Event Scheduling**  
 Create detailed schedules and timelines for every aspect of your event.
-
-💸 **Budget Tracking**  
-Set spending limits and manage expenses for different event components.
 
 📍 **Venue & Vendor Booking**  
 Search for venues and catering options, filtered by price and guest capacity.
