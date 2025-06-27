@@ -1,5 +1,9 @@
 # 🎉 Eventful
 
+<p align="center">
+  <img src="https://github.com/Nuv09/Eventful/blob/main/logo.png?raw=true" width="400" alt="Eventful Logo"/>
+</p>
+
 A smart and streamlined event planning application designed to simplify and enhance the user’s event organizing experience.
 
 ---
@@ -44,6 +48,3 @@ Save your favorite venues and vendors for future events.
 
 🎨 **Interactive Prototype (Figma):**  
 [View Live Prototype](https://www.figma.com/proto/HY9o1k7gzhUv9Ok34mQV9y/UX-Project?type=design&node-id=167-6379&t=Ng82eYyHLNTMYfmV-1&scaling=scale-down&page-id=167%3A5996&starting-point-node-id=167%3A6379)
-
-🎥 **Demo Video:**  
-[Watch on YouTube](https://youtu.be/M6oPs-VEIF8)
