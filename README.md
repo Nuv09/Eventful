@@ -1,7 +1,7 @@
 # 🎉 Eventful
 
 <p align="center">
-  <img src="https://github.com/Nuv09/Eventful/blob/main/logo.png?raw=true" width="600" alt="Eventful Logo"/>
+  <img src="https://github.com/Nuv09/Eventful/blob/main/logo.png?raw=true" width="1000" alt="Eventful Logo"/>
 </p>
 
 A smart and streamlined event planning application designed to simplify and enhance the user’s event organizing experience.
